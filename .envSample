@@ -1,4 +1,6 @@
 NODE_ENV = development
-PORT = ??
-JWT = ??
+PORT = 5000
+JWT_SECRET = ??
 MONGO_URI = ??
+YOUTUBE = "https://www.youtube.com/watch?v=R4AhvYORZRY"
+TIME = "1:13:40"
